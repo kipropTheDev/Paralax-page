@@ -1,6 +1,6 @@
 # Paralax-page
 
-[Click here to see my solution](https://trix-shop.vercel.app/).
+[Click here to see my solution](https://paralax-site-3400.netlify.app/).
 
 ### Built with
 
